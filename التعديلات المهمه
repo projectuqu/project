@@ -42,4 +42,5 @@ implementation fileTree(dir: 'libs', include: ['*.jar'])
   dependencies {      قم بإضافة هذا السطر تحت الكلمة
   classpath 'com.google.gms:google-services:4.2.0' 
   
-  وصلى الله وبارك على حبيبنا محمد 
+
+  
