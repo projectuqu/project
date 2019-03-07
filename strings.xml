@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application103</string>
+    <string name="add_stadium">Add Stadium</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="phone">Phone</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+
+</resources>
